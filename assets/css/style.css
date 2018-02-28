@@ -1,0 +1,75 @@
+body {
+    background: url(../images/baseball.jpg)
+}
+
+.heading {
+    margin: 15px auto;
+    padding-bottom: 15px;
+    padding-top: 35px;
+    background: url(../images/footer.png);
+    color: white;
+    letter-spacing: 4px;
+}
+
+.headtext {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.textback {
+    margin: 5px auto;
+    background: white;
+    padding: 10px;
+}
+
+.textblock {
+    margin: 5px auto;
+    color: rgb(107, 107, 107);
+    text-align: center;
+    padding-bottom: 25px;
+    letter-spacing: 1px;
+}
+
+.questiontitle {
+    text-align: center;
+    color: rgb(82, 82, 82);
+    font-size: 30px;
+}
+
+.questions {
+    text-align: center;
+    font-size: 20px;
+    color: black;
+    padding: 15px 10px 0px 0px;
+}
+
+.question {
+    margin-bottom: 10px;
+    color: black;
+    font-size: 20px;
+}
+
+.answers {
+    margin-bottom: 10px;
+}
+
+.form-check {
+    text-align: center;
+}
+
+.button {
+    padding: 10px 20px;
+    font-size: 25px;
+    margin: 15px 0px 0px 420px;
+    cursor: pointer;
+    text-align: center;
+}
+
+input {
+    margin-right: 5px;
+}
+
+label {
+    margin-right: 15px;
+}
