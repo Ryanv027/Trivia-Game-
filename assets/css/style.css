@@ -31,7 +31,7 @@ body {
     letter-spacing: 1px;
 }
 
-.questiontitle {
+.timer {
     text-align: center;
     color: rgb(82, 82, 82);
     font-size: 30px;
@@ -61,9 +61,12 @@ body {
 .button {
     padding: 10px 20px;
     font-size: 25px;
-    margin: 15px 0px 0px 420px;
     cursor: pointer;
     text-align: center;
+}
+
+.button-col {
+    margin: 0px auto;
 }
 
 input {
@@ -72,6 +75,11 @@ input {
 
 label {
     margin-right: 15px;
+}
+
+#start {
+    font-size: 50px;
+    padding: 25px 40px 25px 40px;
 }
 
 @media screen and (max-width: 400px) {
